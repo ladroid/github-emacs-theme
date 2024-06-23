@@ -77,15 +77,15 @@ For example to change background color:
 
 ### Github Dark
 
-TODO: add a screenshot
+![github-dark](https://github.com/ladroid/github-emacs-theme/assets/12819340/8761e833-d0c6-4918-8d98-20db6aaa6bf6)
 
 ### Github Dark Dimmed
 
-TODO: add a screenshot
+![github-dimmed](https://github.com/ladroid/github-emacs-theme/assets/12819340/06d99e95-c340-4820-82f6-13c149c4c435)
 
 ### Github Light
 
-TODO: add a screenshot
+![github-light](https://github.com/ladroid/github-emacs-theme/assets/12819340/667edfba-4b1b-42df-9460-8f58beb05a8b)
 
 ## Contributing
 
