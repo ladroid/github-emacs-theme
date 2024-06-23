@@ -2,6 +2,8 @@
 
 Those themes are designed to give your Emacs editor a sleek, modern look inspired by GitHub's theme mode. Below you'll find instructions on how to install and use them.
 
+> Old version can be found on my [gist](https://gist.github.com/ladroid/37561698c9a953d4a5231a3f9241e81d)
+
 ## Supported colorschemes
 
 | github-emacs-theme | github-vscode-theme|
