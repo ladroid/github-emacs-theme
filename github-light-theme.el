@@ -3,7 +3,7 @@
 ;;; Copyright (C) 2024 ladroid
 ;;; Author: ladroid
 ;;; Version: 0.1
-;;; Filename: github-dark-dimmed.el
+;;; Filename: github-light-theme.el
 ;;; Package-Requires: ((emacs "24" or >))
 ;;; URL: https://gist.github.com/ladroid/37561698c9a953d4a5231a3f9241e81d
 ;;; License: GPL-3+
