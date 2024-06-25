@@ -32,7 +32,7 @@
   (background-color	      "#ffffff" "#ffffff")
   (string-color		      "#4cb3e7" "#4cb3e7")
   (number-color		      "#159adb" "#159adb")
-  (highlight-color       "#262e39" "#262e39")
+  (highlight-color       "#dbe9f9" "#dbe9f9")
   (oniViolet             "#7646c1" "#7646c1")
   (yellow-color          "#7646c1" "#7646c1"))
 
