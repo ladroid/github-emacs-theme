@@ -64,7 +64,7 @@
   (mode-line-highlight                           (:foreground number-color))
   (mode-line-buffer-id                           (:foreground oniViolet :bold t))
   (numbers                                       (:foreground number-color))
-  (region                                        (:background highlight-color :foreground text-color))
+  (region                                        (:background highlight-color))
   (separator-line                                (:background background-color))
   (shadow                                        (:background background-color))
   (success                                       (:foreground keyword-color))
