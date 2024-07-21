@@ -147,10 +147,10 @@
   ;; org-mode
   (org-done                                      (:foreground string-color))
   (org-code                                      (:background background-color))
-  (org-meta-line                                 (:background string-color :foreground string-color))
+  (org-meta-line                                 (:background background-color))
   (org-block                                     (:background background-color :foreground comment-color))
-  (org-block-begin-line                          (:background string-color :foreground string-color))
-  (org-block-end-line	                           (:background keyword-color :foreground keyword-color))
+  (org-block-begin-line                          (:background background-color))
+  (org-block-end-line	                           (:background background-color))
   (org-headline-done                             (:foreground string-color :strike-through t))
   (org-todo                                      (:foreground number-color :bold t))
   (org-headline-todo                             (:foreground background-color))
